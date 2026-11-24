@@ -167,7 +167,8 @@ Five workload levels were tested with different concurrency levels. Each workloa
 
 ### 1. Concurrent Requests vs Response Time
 
-![Response Time](Outputs/1_response_time.png)
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/ddb61d37-85f5-44d9-b845-8b15d2670ae5" />
+
 
 ### 2. Concurrent Requests vs Throughput
 
